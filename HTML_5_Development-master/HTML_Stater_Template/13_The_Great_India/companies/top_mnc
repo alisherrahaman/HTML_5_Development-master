@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Top MNC</title>
+    <link rel="icon" href="logos%20MNC's.jpg" >
+    <style>
+        body{
+            font-family: "Comic Sans MS" , sans-serif ;
+            margin: 0;
+            background-color:whitesmoke;
+        }
+        h1 ,p,td {
+            text-align: center;
+        }
+        h2{
+            background: linear-gradient(blue ,blanchedalmond);
+            text-align: center;
+            padding: 15px;
+        }
+        img{
+            border-radius: 15px;
+            box-shadow: 0 0 15px orangered;
+        }
+    </style>
+    <body>
+<!-- Top MNCs-->
+<!-- main nagivation -->
+<div align="center">
+    <a href="#companies evolution">companies evolution</a>
+    <a href="#software-companies">software companies</a>|
+    <a href="#auto-mobiles">automobiles</a>|
+    <a href="#mobile-companies">mobiles</a>|
+    <a href="#fast-food">fast food</a>|
+</div>
+<!-- home sections -->
+<div id="home">
+    <h1>
+<span style="color: chocolate">top</span>
+        <span style="color: gold">MNCs</span>
+    </h1>
+<h2>what is MNC company</h2>
+    <p>A multinational corporation (MNC) has facilities and other assets in at least one country other than its home country. Such companies have offices and/or factories in different countries and usually have a centralized head office where they coordinate global management.</p>
+<table width="100%">
+    <tr>
+        <td><img src="what%20is%20mnc.jpg" width="600" height="300"></td>
+        <td><img src="mnc-in-india.jpg" width="600" height="300"></td>
+    </tr>
+<tr>
+    <td>what is MNC</td>
+    <td>MNCs in India</td>
+</tr>
+</table>
+</div>
+<!-- companies evolution -->
+<div id="companies evolution" >
+    <h2>companies evolution</h2>
+    <p>nternational business begins with the exchange of goods among nations (international trade). Its second stage is reached with the partial exchange of the physical corporate assets of one company for the capital assets of another (portfolio investment). The third stage evolves with the acquisition of an entire company or the establishment of productive facilities owned and managed by a firm with economic interests in more than one country (foreign direct investment). International business finally reaches its apex with the multinational corporation, which is involved in all three modes of international business: international trade, portfolio investment, and foreign direct investment (see Figure 2.2).
+
+        The literature on the subject of multinational corporations is reaching gigantic proportions. In general, the literature focuses on four main areas of investigation:
+
+        The various aspects of the decision to invest abroad
+        The definition of a multinational corporation
+        The growth of the multinational corporation
+        The impact of the multinational corporation's activities on the firm itself, on the home and host countries, and on world economic and political welfare
+
+        As a general rule multinational corporations can best be conceived of as business enterprises that are engaged in all activities of international business. As such, they share certain common characteristics:
+
+        They are large, usually having several billions of dollars in sales.
+        They have numerous affiliates in many countries.
+        They do most of their business inside the developed countries.
+        They are perceived as both a potential and a real threat to purely national companies, the labor force of home countries, the labor force of host countries, and the international economic order.
+        They are greatly distrusted by the public in both the investing and the recipient countries.
+
+    </p>
+    <table width="100%">
+        <tr>
+            <td>
+                <iframe width="600" height="400" src="https://www.youtube.com/embed/FCojpFwWuG0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                evolution of companies
+            </td>
+        </tr>
+
+    </table>
+
+</div>
+<!-- software companies-->
+<div id="software-companies">
+    <h2>software companies</h2>
+    <p>Software is different from most other things humans build, hence companies creating/selling/licensing software must be different from other ‘production’ companies as well? Some definitely are but the vast majority are still trying to apply old civil engineering practices to software development. Why are they wasting so much time and money on upfront sizing, planning and tracking when all empirical evidence tells us it maps so badly to the actual process of developing software? Why haven’t most software companies learnt the hard lessons and started to operate like Valve?
+
+        The financial costs of developing, deploying and having software in production is one big factor of software development being kept in the shackles of dusty old engineering practices. If we are spending all this money on development, we instinctively want to know exactly when it’s going to be ready, with what functionality and quality. If the plan is detailed and rigid enough, surely the car factory website will open in exactly 6 months and 12 days from now! This belief is so infested in management that it seems impossible to argue against, and what’s worse; it constantly gets in the way of developers actually writing code and innovating new features. It’s my experience that successful software projects deliver on time despite all planning, not because of it.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="1200px-Infosys_logo.svg.png" width="270" height="200"></td>
+            <td>
+                <img src="microsofts-logo-gets-a-makeover.jpg" width="270" height="200">
+            </td>
+              <td>
+                <img src="google.png" width="270" height="200">
+              </td>
+            <td>
+                <img src="Wipro_Logo_1.png " width="270" height="200">
+            </td>
+
+        </tr>
+        <tr>
+            <td>infosys</td>
+            <td>microsoft</td>
+            <td>google</td>
+            <td>wipro</td>
+        </tr>
+
+    </table>
+
+</div>
+<!-- automobile companies-->
+<div id="auto-mobiles">
+    <h2>automobiles companies</h2>
+    <p>The automotive industry is a wide range of companies and organizations involved in the design, development, manufacturing, marketing, and selling of motor vehicles, some of them are called automakers. It is one of the world's most important economic sectors by revenue.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="tata.jpg" width="270" height="200">
+            </td>
+            <td>
+                <img src="Honda_Logo.svg" width="270" height="200">
+            </td>
+            <td>
+                <img src="jcb.png" width="270" height="200">
+            </td>
+            <td>
+                <img src="TVS-logo.png" width="270" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>tata</td>
+            <td>honda</td>
+            <td>jcb</td>
+            <td>TVS</td>
+        </tr>
+
+    </table>
+
+</div>
+<!-- mobile companies-->
+<div id="mobile-companies">
+    <h2>mobile companies</h2>
+    <p>A mobile network operator or MNO, also known as a wireless service provider, wireless carrier, cellular company, or mobile network carrier, is a provider of wireless communications services that owns or controls all the elements necessary to sell and deliver services to an end user including radio spectrum allocation, wireless network infrastructure, back haul infrastructure, billing, customer care, provisioning computer systems and marketing and repair organizations.
+
+        In addition to obtaining revenue by offering retail services under its own brand, an MNO may also sell access to network services at wholesale rates to mobile virtual network operators.
+
+        A key defining characteristic of a mobile network operator is that an MNO must own or control access to a radio spectrum license from a regulatory or government entity. A second key defining characteristic of an MNO is that an MNO must own or control the elements of the network infrastructure necessary to provide services to subscribers over the licensed spectrum.
+
+        A mobile network operator typically also has the necessary provisioning, billing and customer care computer systems and the marketing, customer care and engineering organizations needed to sell, deliver and bill for services, however, an MNO can outsource any of these systems or functions and still be considered a mobile network operator.</p>
+    <table width="100%">
+        <tr>
+            <td>
+                <img src="nokia.jpg" width="270" height="200">
+            </td>
+            <td>
+                <img src="oppo.png" width="270" height="200">
+            </td>
+            <td>
+                <img src="apple.png" width="270" height="200">
+            </td>
+            <td>
+                <img src="Motorola-logo.png" width="270" height="200">
+            </td>
+        </tr>
+        <tr>
+            <td>Nokia</td>
+            <td>oppo</td>
+            <td>apple</td>
+            <td>Motorola</td>
+        </tr>
+    </table>
+</div>
+<!-- food companies-->
+<div id="fast-food">
+    <h2> fast food companies</h2>
+    <p>A fast food restaurant, also known as a quick service restaurant (QSR) within the industry, is a specific type of restaurant that serves fast food cuisine and has minimal table service. The food served in fast food restaurants is typically part of a "meat-sweet diet", offered from a limited menu, cooked in bulk in advance and kept hot, finished and packaged to order, and usually available for take away, though seating may be provided. Fast food restaurants are typically part of a restaurant chain or franchise operation that provides standardized ingredients and/or partially prepared foods and supplies to each restaurant through controlled supply channels. The term "fast food" was recognized in a dictionary by Merriam–Webster in 1951.[1]
+
+        Arguably, the first fast food restaurants originated in the United States with White Castle in 1921 and A&W in 1923.[2] Today, American-founded fast food chains such as McDonald's (est. 1940) and KFC (est. 1952)[3][4][5][6] are multinational corporations with outlets across the globe.
+
+        Variations on the fast food restaurant concept include fast casual restaurants and catering trucks. Fast casual restaurants have higher sit-in ratios, offering a hybrid between counter-service typical at fast food restaurants and a traditional table service restaurant. Catering trucks (also called food trucks) often park just outside worksites and are popular with factory workers</p>
+    <table width="100%">
+<tr>
+    <td>
+        <img src="dominos.jpg" width="270" height="200">
+    </td>
+    <td>
+        <img src="kfc.png" width="270" height="200">
+    </td>
+    <td>
+        <img src="macdonald's.png" width="270" height="200">
+    </td>
+    <td>
+        <img src="subway.png" width="270" height="200">
+    </td>
+</tr>
+        <tr>
+            <td>dominos</td>
+            <td>kfc</td>
+            <td>macdonald</td>
+            <td>subway</td>
+        </tr>
+    </table>
+</div>
+<!-- main footer-->
+<div id="main footer">
+    <h2>copyright &copy; 2018</h2>
+<p>all right are reserved</p>
+    <p>maintain and devloped by Rishabh Rai</p>
+</div>
+<!-- main nagivation-->
+<div align="center">
+    <a href="#companies evolution">companies evolution</a>
+    <a href="#software-companies">software companies</a>|
+    <a href="#auto-mobiles">automobiles</a>|
+    <a href="#mobile-companies">mobiles</a>|
+    <a href="#fast-food">fast food</a>|
+</div>
+<br>
+</body>
+</head>
+</html>

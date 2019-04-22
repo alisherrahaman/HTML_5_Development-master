@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Backgrounds</title>
+<style>
+    body{
+        font-family: "Comic Sans MS",sans-serif;
+    }
+    #bg-image{
+        width: 500px;
+        background-image: url("img/background.jpg");
+        padding: 100px;
+    }
+   #bg-position{
+        width: 700px;
+        height: 300px;
+        background: lightgreen url("img/nature.jpg") no-repeat scroll top right;
+
+    }
+    #bg-repeat{
+        width: 700px;
+        height: 300px;
+        background:lightgreen url("img/nature.jpg") repeat-x scroll top right;
+
+    }
+    #bg-attachment{
+        height: 200px;
+        width: 100%;
+        background:  white url("img/gallery3.jpeg") scroll bottom ;
+    }
+    p{
+        font-size: 50px;
+        color: red;
+
+    }
+</style>
+</head>
+<body>
+<!--background color-->
+<h2 style="background-color: teal">iam with teal color background</h2>
+
+
+
+<!--background image-->
+<h2>background image</h2>
+<div id="bg-image">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci eius esse excepturi nemo officia pariatur quasi rerum soluta tempore vero? Ab aliquam aperiam at deserunt esse excepturi, explicabo fugit iusto qui quod reiciendis rerum sapiente suscipit, vitae voluptatum? Illum, placeat!0</p>
+</div>
+
+<!--background attachment-->
+<h2>background attachment</h2>
+<div id="bg-attachment"></div>
+
+
+
+<!--background position-->
+<h2>background position</h2>
+<div id="bg-position"></div>
+
+<!--background repeat-->
+<h2>background repeat</h2>
+<div id="bg-repeat"></div>
+</body>
+</html>
